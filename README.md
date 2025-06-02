@@ -31,12 +31,12 @@ Este proyecto está construido con tecnologías web fundamentales:
 
 Puedes ver la biografía de Rauw Alejandro en línea, alojada en GitHub Pages, visitando el siguiente enlace:
 
-[**Visita la Biografía de Rauw Alejandro Aquí**](https://israel2201.github.io/copia-de-rauwalejrando.html/)
+[**Visita la Biografía de Rauw Alejandro Aquí**](https://israel2201.github.io/israel2201.github/)
 
-**¡Importante!** Asegúrate de **reemplazar `TU-USUARIO` con tu nombre de usuario de GitHub** y **`TU-REPOSITORIO` con el nombre de tu repositorio** donde tienes tu página web.
+**¡Importante!** Asegúrate de **reemplazar `israel2201.github ` con tu nombre de usuario de GitHub** y **`israel2201.github ` con el nombre de tu repositorio** donde tienes tu página web.
 
 ---
 
 ## Autor
 
-Este proyecto fue creado por [israel2201.github].
+Este proyecto fue creado por [Israel Antonio Martinez Alvarado].
